@@ -2,6 +2,7 @@
 - matplotlib
 - numpy
 - scipy
+- scikit-image
 - black (opitonal)
 
 ## Distortion
